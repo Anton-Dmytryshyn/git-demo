@@ -1,2 +1,4 @@
-First line of the song
+First line
 Second line
+
+Fourth line
